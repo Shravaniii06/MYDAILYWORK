@@ -1,7 +1,5 @@
 # MYDAILYWORK
 
-# My Daily Work
-
 This repository contains my daily projects and tasks, showcasing my work in web development and project management. Each folder corresponds to a specific project I worked on.
 
 ## Projects
